@@ -126,7 +126,7 @@ $lang['module_users'] = 'Uživatelé';
 $lang['module_permissions'] = 'Práva';
 $lang['module_manage_cache'] = 'Cache stránky';
 $lang['module_manage_activity'] = 'Záznam aktivity';
-
+$lang['module_manage_settings'] = 'Nastavení';
 $lang['section_site'] = 'Website';
 $lang['section_blog'] = 'Blog';
 $lang['section_modules'] = 'Moduly';
